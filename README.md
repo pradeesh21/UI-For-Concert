@@ -1,3 +1,3 @@
 # UI-For-Concert
---just a practice for html and css 
---No backend is done the page is static
+A static webpage for booking concert tickets 
+Just a simple college project
